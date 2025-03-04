@@ -1,0 +1,10 @@
+===== CAFE RECEIPT =====
+Table: 2
+Date: 2025-03-04 23:14:33
+Order ID: 0aafcd9f
+=======================
+5 x Cappuccino - $17.50
+13 x Espresso - $32.50
+=======================
+Total: $50.00
+Thank you for your visit!
